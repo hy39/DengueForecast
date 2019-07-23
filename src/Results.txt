@@ -1,0 +1,16 @@
+Data set: 2005-2016
+
+> MSE_Va/MSE_Tr
+[1] 423.9856
+
+> 1/Expected_Ratio
+[1] 21
+
+
+Data set: 2002-2016
+
+> MSE_Va/MSE_Tr
+[1] 16.63966
+
+> 1/Expected_Ratio
+[1] 13

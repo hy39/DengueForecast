@@ -1,0 +1,12 @@
+Figure1: Average monthly dengue reported cases in Kaoshiung city.
+plotAvgMonthlyCases.R
+
+Figure2: Average monthly climatic data in Kaoshiung city.
+(a) Temperatures by month are plotted from year 2005 to 2016.
+plotAvgMonthlyTemp.R
+
+(b) Daily rainfall are plotted from year 2005 to 2016.
+plotAvgMonthlyRain.R
+
+Figure3: Reported and estimated dengue cases by year.
+plotAvgYearlyDenguecases.R

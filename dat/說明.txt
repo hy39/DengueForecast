@@ -1,3 +1,6 @@
-玭放の獴秖琌蹦ノЫ妮代籓玭(467410)
-狥放の獴秖琌蹦ノЫ妮代琄(467590)
-蔼动放の獴秖琌蹦ノЫ妮代蔼动(467440)
+Open data platform for the weather
+https://opendata.cwb.gov.tw/dataset/climate?page=1
+
+Kaohsiung Monthly Temperature and Monthly Rainfall data are collected from CWB web site.
+For example, in year 2015, monthly weather data can be obtained through the following link:
+http://e-service.cwb.gov.tw/HistoryDataQuery/YearDataController.do?command=viewMain&station=467440&stname=%25E9%25AB%2598%25E9%259B%2584&datepicker=2015

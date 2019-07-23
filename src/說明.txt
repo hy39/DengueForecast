@@ -1,0 +1,9 @@
+Steps:
+(1)Open Prediction.RData(R Workspace)
+(2)Run 病例數預測.R(R Script) 	????
+(3)Run 信賴區間.R(R Script)	?????
+(4)Run Leave_One_Out.R(R Script)
+
+Plot charts:
+(1)plotAvgMonthyData.R
+(2)plotTemperature.R
